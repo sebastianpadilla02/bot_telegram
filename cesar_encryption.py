@@ -1,4 +1,7 @@
 import string
+
+#se debe instalar enchant para poder importar la librería 
+#pip install pyenchant
 import enchant
 from enchant.checker import SpellChecker
 
